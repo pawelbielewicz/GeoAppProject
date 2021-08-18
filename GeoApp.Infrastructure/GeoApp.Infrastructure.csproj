@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GeoApp.Model\GeoApp.Model.csproj" />
+    <ProjectReference Include="..\GeoApp.Persistence\GeoApp.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
