@@ -3,8 +3,6 @@ using GeoApp.Model;
 using GeoApp.Persistence;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace GeoApp.Controllers
 {

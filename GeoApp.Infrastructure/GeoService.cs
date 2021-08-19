@@ -1,7 +1,6 @@
-﻿using System;
-using System.Threading.Tasks;
-using GeoApp.Model;
+﻿using GeoApp.Model;
 using GeoApp.Persistence;
+using System;
 
 namespace GeoApp.Infrastructure
 {

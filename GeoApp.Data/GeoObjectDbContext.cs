@@ -14,8 +14,6 @@ namespace GeoApp.Data
 
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder options) => options.UseSqlServer("Server=.;Initial Catalog=Geo;Persist Security Info=False;User ID=sa;Password=LocalPassword1234;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=True;Connection Timeout=30;");
-
         public DbSet<GeoObject> GeoObjects { get; set; }
 
         /// <param name="modelBuilder"></param>
